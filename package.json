@@ -1,0 +1,21 @@
+{
+  "name": "sequelize-api",
+  "version": "1.0.0",
+  "description": "echo \"# sequelize-api\" >> README.md git init git add README.md git commit -m \"first commit\" git branch -M main git remote add origin https://github.com/juliavileela/sequelize-api.git git push -u origin main",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliavileela/sequelize-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/juliavileela/sequelize-api/issues"
+  },
+  "homepage": "https://github.com/juliavileela/sequelize-api#readme"
+}
